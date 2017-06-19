@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/invisible-tech/flux-capacitor/issues"
   },
-  "homepage": "https://github.com/invisible-tech/flux-capacitor#readme"
+  "homepage": "https://github.com/invisible-tech/flux-capacitor#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
 }
