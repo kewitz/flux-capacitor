@@ -1,0 +1,23 @@
+{
+  "name": "flux-capacitor",
+  "version": "1.0.0",
+  "description": "Simple CLI task management system where Tasks are streams and you can write your own reactions as extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invisible-tech/flux-capacitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invisible-tech/flux-capacitor/issues"
+  },
+  "homepage": "https://github.com/invisible-tech/flux-capacitor#readme",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
